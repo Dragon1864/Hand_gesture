@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IR_sensor")(type "KiCad")(uri "${KIPRJMOD}/IR_sensor.kicad_sym")(options "")(descr ""))
+)
